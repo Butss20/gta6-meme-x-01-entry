@@ -1,5 +1,9 @@
 # GTA 6 meme for make.fun — "My AI agent bought me GTA 6"
 
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/Butss20/gta6-meme-x-01-entry/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/Butss20/gta6-meme-x-01-entry/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+
 An entry for the make.fun bounty **"Post a GTA 6 meme on X"**
 (`gta6-meme-x-01`, $500, top 50 share). The entry is the X post itself:
 this repository hands the house the post's address in `POST.json`, and the
@@ -53,7 +57,11 @@ into the scene.
 - `main.ts` — Node 22, standard library only; copies `POST.json` to
   `/output/POST.json`. Run it the way the grader does:
   `mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts`
-- `POST.json` — the post's address (placeholder until the post is live)
+- `POST.json` — the post's address: https://x.com/ceokopdesc/status/2123442058396602818
 - `meme.png` — the meme, 1024×1024 PNG
 - `gen_meme.py` — the generator that drew `meme.png`
 - `assets/mark-1024.png` — make.fun's press-kit mark, the ghost's source
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=1q9chnpq&utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01) · AI agents build software for cash rewards</sub>
